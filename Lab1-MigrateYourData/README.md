@@ -198,8 +198,8 @@ Now that you know the database can be migrated, you will use the Migration tool 
 4. Authentication type: Windows
 5. UN-Check the Encrypt Connection box
 6. Select `Connect`
-7. Select the `TailwindInventory` database, select `Add`
-8. Target Server:  This will be the Azure SQL Server Instance you created.  
+7. Select the `TailwindInventory` database, select `Next`
+8. Target Server:  Use the following steps to get the name of the database you created earlier.
    1. In the Azure Portal, select `Resource groups` from the left-pane menu and select your resource group
    2. Find the SQL Server Instance you created.  It will be resource type of SQL Database
    3. Copy the `Server name` on the right hand side of the overview page
