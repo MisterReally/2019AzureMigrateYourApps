@@ -1,0 +1,11 @@
+COSMOS_DB_NAME='ah719migrationcosmos.documents.azure.com'
+COSMOS_USER='ah719migrationcosmos'
+COSMOS_PWD='lA1dahWVWwkhq2DUXmb0mbWMToK7UHyPfaulVbmqjFuLCmhMIIKQeQZMqhLHZD7mYdrGBzRBqaKkx6PSf3rZuw=='
+cosmos primary cxn string
+mongodb://ah719migrationcosmos:lA1dahWVWwkhq2DUXmb0mbWMToK7UHyPfaulVbmqjFuLCmhMIIKQeQZMqhLHZD7mYdrGBzRBqaKkx6PSf3rZuw==@ah719migrationcosmos.documents.azure.com:10255/tailwind?ssl=true&replicaSet=globaldb
+
+SQL Server
+ah719sqlserver.database.windows.net
+
+Server=tcp:ah719sqlserver.database.windows.net,1433;Initial Catalog=ah719SQLDB;Persist Security Info=False;User 
+ID=migrateadmin;Password=AzureMigrateTraining2019#;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
